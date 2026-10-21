@@ -1,0 +1,11 @@
+# VS Code local history extension
+.history/
+
+# Arduino build artifacts
+build/
+*.hex
+*.elf
+
+# OS junk
+.DS_Store
+Thumbs.db
